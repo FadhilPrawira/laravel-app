@@ -1,10 +1,16 @@
-## Tugas Laravel Mata Kuliah Metode Pemrograman Modern
+# Tugas Laravel
+Repository ini adalah tugas mata kuliah [LTEL6490] Metoda Pemrograman Modern di Program Studi Sarjana Departemen Teknik Elektro Universitas Diponegoro, tahun ajaran 2023/2024.
 
-Referensi:
+## Prasyarat
+1. XAMPP versi 8.2.12-0
+2. Composer versi 2.6.5
 
-[Tutorial Laravel 10 untuk Pemula](https://santrikoding.com/tutorial-set/tutorial-laravel-10-untuk-pemula)
+## Tujuan
 
-Instruksi:
+Penugasan ini bertujuan untuk mengembangkan pemahaman mahasiswa tentang konsep Migration, Seeder, dan Blade dalam framework Laravel. Mahasiswa diharapkan dapat mengimplementasikan dan memahami bagaimana menggunakan fitur-fitur tersebut untuk mengelola basis data, mengisi data awal, dan merancang antarmuka pengguna.
+
+
+## Instruksi:
 
 1. Migration:
    - [ ] Mahasiswa diminta untuk membuat setidaknya dua (2) tabel menggunakan Migration di Laravel. Contoh: Tabel Mahasiswa dan Tabel Mata Kuliah.
@@ -25,3 +31,7 @@ Instruksi:
 4. Integrasi:
    - [x] Hubungkan antarmuka pengguna yang telah dibuat dengan data pada tabel menggunakan model dan controller.
    - [x] Pastikan bahwa CRUD (Create, Read, Update, Delete) dapat dilakukan dengan sukses melalui antarmuka pengguna yang sudah dirancang.
+
+## Referensi:
+
+[Santri Koding - Tutorial Laravel 10 untuk Pemula](https://santrikoding.com/tutorial-set/tutorial-laravel-10-untuk-pemula)
