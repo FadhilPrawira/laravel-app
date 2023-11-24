@@ -34,5 +34,5 @@ Penugasan ini bertujuan untuk mengembangkan pemahaman mahasiswa tentang konsep M
 
 ## Referensi:
 
-[Santri Koding - Tutorial Laravel 10 untuk Pemula](https://santrikoding.com/tutorial-set/tutorial-laravel-10-untuk-pemula)
-[Laravel : Pemula sampai Mahir](https://www.udemy.com/course/laravel-pemula-sampai-mahir/)
+- [Santri Koding - Tutorial Laravel 10 untuk Pemula](https://santrikoding.com/tutorial-set/tutorial-laravel-10-untuk-pemula)
+- [Laravel : Pemula sampai Mahir](https://www.udemy.com/course/laravel-pemula-sampai-mahir/)
